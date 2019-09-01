@@ -6,7 +6,7 @@ Use cases involve analyzing process names, file names, services, etc.
 
 ## Usage
 
-Dot-source freq.ps1 into the current session. 
+Dot-source freq.ps1 into the current session.  Create a new instance of the FreqCounter class and load a table (see  https://github.com/MarkBaggett/freq/blob/master/freqtable2018.freq for a great starting point).
 
 ```PowerShell
 PS C:\> . C:\scripts\freq.ps1
